@@ -1,0 +1,5 @@
+#!/bin/bash
+a=20
+b=30
+sum='expr $a+$b'
+echo "sum of tow value is $sum"
